@@ -1,5 +1,5 @@
 # Higgs ANN classifier
-A work in progress neural network suite for classifying Higgs sector events in particle collision data. This project is very much a work in progress.
+A work in progress neural network suite for classifying Higgs sector events in particle collision data. This is very much a work in progress (I'm 2 months into to a year long project).
 
 Files:
 - `nn.py` contains the logic to handle run and train a neural network.
